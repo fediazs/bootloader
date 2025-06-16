@@ -32,3 +32,15 @@ from bootloader import Bootloader
 
 boot = Bootloader()
 boot.run()
+```
+
+## Licencia
+
+MIT
+
+---
+
+## Autor
+
+Desarrollado por **Felix Diaz Santos**
+Correo: [fediaz@astro.unam.mx](mailto:fediaz@astro.unam.mx)
